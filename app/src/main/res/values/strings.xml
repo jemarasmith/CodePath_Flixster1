@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CodePath_Flixster1</string>
+    <string name="movie_poster">movie poster</string>
+  <string name="poster">poster</string>
+  <string name="title">title</string>
+  <string name="overview">overview</string>
+    <string name="poster_path">poster</string>
+</resources>
